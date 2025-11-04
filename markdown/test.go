@@ -8,7 +8,7 @@ import (
 
 // Simple HTTP server: responds with a greeting on "/"
 func hello(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "Hello, Tekton Web!")
+	fmt.Fprintln(w, "Hello, Tekton Web-test!")
 }
 
 func main() {
