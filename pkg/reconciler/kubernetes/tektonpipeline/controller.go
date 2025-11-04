@@ -34,6 +34,7 @@ import (
 	"knative.dev/pkg/logging"
 )
 
+// versionConfigMap is the name of the ConfigMap that contains the version info
 const versionConfigMap = "pipelines-info"
 
 // NewController initializes the controller and is called by the generated code
