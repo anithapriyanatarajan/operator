@@ -4,7 +4,7 @@ linkTitle: "TektonConfig"
 weight: 1
 ---
 -->
-# Tekton Config
+# Tekton Config test
 
 TektonConfig custom resource is the top most component of the operator which allows user to install and customize all other
 components at a single place.
